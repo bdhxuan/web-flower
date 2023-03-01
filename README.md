@@ -1,7 +1,7 @@
 # web-flower
 author: Xuan Bui
 
-Cài đặt phụ thuộc: xampp, database
+Cài đặt phụ thuộc: xampp, database MySQL
 
 Công nghệ sử dụng:
   - Front-end: Bootstrap, CSS
